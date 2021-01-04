@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DABF150025A32B9600416846 /* MMDrawerController.h in Headers */ = {isa = PBXBuildFile; fileRef = DAD0C1E225A2FC17001FBBCB /* MMDrawerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DAD0C20B25A2FCB6001FBBCB /* UIViewController+MMDrawerController.h in Headers */ = {isa = PBXBuildFile; fileRef = DAD0C20225A2FCB6001FBBCB /* UIViewController+MMDrawerController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DAD0C20C25A2FCB6001FBBCB /* MMDrawerController.m in Sources */ = {isa = PBXBuildFile; fileRef = DAD0C20325A2FCB6001FBBCB /* MMDrawerController.m */; };
 		DAD0C20D25A2FCB6001FBBCB /* MMDrawerBarButtonItem.h in Headers */ = {isa = PBXBuildFile; fileRef = DAD0C20425A2FCB6001FBBCB /* MMDrawerBarButtonItem.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -86,6 +87,7 @@
 				DAD0C20B25A2FCB6001FBBCB /* UIViewController+MMDrawerController.h in Headers */,
 				DAD0C20D25A2FCB6001FBBCB /* MMDrawerBarButtonItem.h in Headers */,
 				DAD0C20E25A2FCB6001FBBCB /* MMDrawerVisualState.h in Headers */,
+				DABF150025A32B9600416846 /* MMDrawerController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
